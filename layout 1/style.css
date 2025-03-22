@@ -1,0 +1,34 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+.foto1 {
+
+    background-image: url(/assents/imgs/Rectangle\ 3.png);
+    background-size: cover;
+    
+    
+    margin-top: 10%;
+    width: 1450px;
+    height: 400px;
+    margin: 205px
+}
+    
+    h1 {
+        color: black;
+        background-color: blue;
+        margin-right: 70px%;
+
+
+}
+
+
+    h2{
+
+
+
+        margin-left: 200px;
+        text-align: ;
+    }
