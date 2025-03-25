@@ -11,24 +11,78 @@
     
     
     margin-top: 10%;
-    width: 1450px;
+    width: 1490px;
     height: 400px;
-    margin: 205px
+    margin: 206px
 }
     
-    h1 {
+    p {
         color: black;
-        background-color: blue;
         margin-right: 70px%;
 
 
 }
 
 
+
+    .left{
+
+        
+        height: 8vh ;
+        width: 100vw; 
+        font-size: 12px;
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+        background-color: blue;
+
+
+    }
+
+
+    .login{
+
+        font-size: 25px;
+        color:  white;
+        padding: 90px;
+
+    }
+
+    .palavras {
+
+        font-size: 25px;
+        color: white;
+        padding: 90px;        
+
+
+
+    }
+
     h2{
 
 
 
-        margin-left: 200px;
-        text-align: ;
+        margin-left: 205px;
+        text-align: left;
+        margin-top: -150px;
+        
+        
     }
+    
+    /* .left {
+
+
+        background-color: blue;
+        height: 50px;
+        width: 100%;
+        /* font-size: 23px; */
+        /* margin-right: 0px; */
+        /* height: 20px; */
+        /* text-align: right; */
+        /* margin-top: -30px; */
+        font-size: 12px;
+        padding: 70px;
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+    } */

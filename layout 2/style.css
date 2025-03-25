@@ -1,0 +1,67 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+
+.left{
+
+        
+    height: 8vh ;
+    width: 100vw; 
+    font-size: 12px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    background-color: blue;
+
+
+}
+
+
+.login{
+
+    font-size: 25px;
+    color:  white;
+    padding: 90px;
+
+}
+
+.palavras {
+
+    font-size: 25px;
+    color: white;
+    padding: 90px;        
+
+
+
+}
+
+.foto1 {
+
+
+
+        background-image: url("assents/imgs/Rectangle\ 3.png");
+        background-size: cover;
+
+        height: 590px;
+        width: 750px;
+        margin-top: 120px;
+        margin-left: 160px;
+
+
+}
+
+
+.foto2 {
+
+    background-image: url("assents/imgs/Rectangle\ 3.png");
+    background-size: cover;
+
+    height: 594px;
+    width: 757px;
+    margin-left: 1000px;
+    margin-top: -589px;
+
+}
