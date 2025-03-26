@@ -1,42 +1,42 @@
-* {
-	padding: 0px;
-	margin: 0px;
-	box-sizing: border-box;
-}
+    * {
+        padding: 0px;
+        margin: 0px;
+        box-sizing: border-box;
+    }
 
 
-.left{
+    .left{
 
-        
-    height: 8vh ;
-    width: 100vw; 
-    font-size: 12px;
-    justify-content: space-between;
-    align-items: center;
-    display: flex;
-    background-color: blue;
-
-
-}
+            
+        height: 8vh ;
+        width: 100vw; 
+        font-size: 12px;
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+        background-color: blue;
 
 
-.login{
-
-    font-size: 25px;
-    color:  white;
-    padding: 90px;
-
-}
-
-.palavras {
-
-    font-size: 25px;
-    color: white;
-    padding: 90px;        
+    }
 
 
+    .login{
 
-}
+        font-size: 25px;
+        color:  white;
+        padding: 90px;
+
+    }
+
+    .palavras {
+
+        font-size: 25px;
+        color: white;
+        padding: 90px;        
+
+
+
+    }
 
 .foto1 {
 

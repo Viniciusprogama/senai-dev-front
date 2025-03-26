@@ -50,3 +50,48 @@
     margin-top: 80px;
     margin-left: 90px;
 }
+
+.right {
+
+    margin-left: 190px;
+    margin-top: -670px;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+
+
+
+h2 { 
+
+    color: black;
+    height: -50px;
+    
+    
+    
+    
+
+
+
+
+    
+}
+
+
+h3 {
+
+    color: black;
+    margin-top: 47px;
+    margin-left: -154px;
+    font-size: 20px;
+
+    justify-content: ;
+     align-items: ;
+
+
+}
